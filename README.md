@@ -1,6 +1,6 @@
 # hello-world
 just a repository
 
-Hi Humans!
+Hi, humans!
 
 Leo here, this is my first repository!
